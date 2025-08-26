@@ -1,0 +1,39 @@
+.notas-container {
+  max-width: 400px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.notas-title {
+  text-align: center;
+  color: #2c3e50;
+}
+
+.notas-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+.notas-thead-row {
+  background: #e0e7ef;
+}
+
+.notas-th {
+  padding: 8px;
+  border-bottom: 2px solid #bfc9d9;
+  text-align: left;
+  color: #34495e;
+}
+
+.notas-tr {
+  border-bottom: 1px solid #eaeaea;
+}
+
+.notas-td {
+  padding: 8px;
+  color: #222;
+}
